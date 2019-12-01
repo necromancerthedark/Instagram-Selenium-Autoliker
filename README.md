@@ -26,7 +26,7 @@
 <li>write "pip install selenium"</li>
 <li>after installation is complete make sure chrome is installed and chromedriver is in same folder</li>
 <li>Write "python InstaSelenium.py"</li>
-<li>Provide Inforamation</li>
+<li>Provide Information</li>
 <li>Enjoy!!</li>
 </i>
 </ol>
@@ -35,6 +35,6 @@
 <ul>
 <li>Videos Not Being Liked(will be fixed in future updates)</li>
 </ul>
-<h3>Please Note:</h3><ul> <li>This Tool currently works only on Window!</li>
+<h3>Please Note:</h3><ul> <li>This Tool currently works only on Windows!</li>
 <li>Warning:Instagram Prohibits you from liking more than 400-600 posts a day!</li></ul>
 <h2><i>Devloped by:Kumar Gaurav Pandey aka Necromancerthedark</i></h2>
